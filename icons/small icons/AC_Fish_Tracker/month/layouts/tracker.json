@@ -1,0 +1,375 @@
+﻿{
+    "tracker_default": {
+        "type": "container",
+        "background": "#23233b",
+        "width": "stretch",
+        "height": "stretch",
+        "content": [
+            {
+                "type": "dock",
+                "content": [
+                    {
+                        "type": "group",
+                        "dock": "left",
+                        "header": "Months",
+                        "header_background": "#111111",
+                        "content": [
+                            {
+                                "type": "tabbed",
+                                "dock": "top",
+                                "height": "stretch",
+                                "tabs": [
+                                    {
+                                        "title": "October",
+                                        "icon": "images/pear.png",
+                                        "content": {
+                                            "type": "array",
+                                            "content": [
+                                                {
+                                                    "type": "group",
+                                                    "header": "Required",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Pale Chub", "Bluegill", "Popeyed Goldfish", "Guppy"]
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "type": "group",
+                                                    "header": "Bonus",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Brook Trout", "Goldfish"]
+                                                        ]
+                                                    }
+                                                }
+                                            ] 
+                                        }
+                                    },
+                                    {
+                                        "title": "August/September",
+                                        "icon": "images/peach.png",
+                                        "content": {
+                                            "type": "array",
+                                            "content": [
+                                                {
+                                                    "type": "group",
+                                                    "header": "Required",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Jellyfish", "Salmon", "Red Snapper", "Barred Knifejaw", "Coelacanth"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Go For If Needed",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["goldfish"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Bonus",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Arapaima"]
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "July 3:55",
+                                        "icon": "images/cherry.png",
+                                        "content": {
+                                            "type": "array",
+                                            "content": [
+                                                {
+                                                    "type": "group",
+                                                    "header": "Required",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Giant Snakehead"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Go For If Needed",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["goldfish"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Bonus",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Frog", "Crawfish", "Killifish", "Goldfish", "Sweetfish", "brook trout"]
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },  
+                                    {
+                                        "title": "July 4:00",
+                                        "icon": "images/cherry.png",
+                                        "content": {
+                                            "type": "array",
+                                            "content": [
+                                                {
+                                                    "type": "group",
+                                                    "header": "Required",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Arowana", "Large Bass"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Go For If Needed",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Sweetfish", "Arapaima", "goldfish", "Killifish", "Coelacanth"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Bonus",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Brook trout", "Giant Catfish", "Eel", "Dace", "Koi"],
+                                                            ["Carp", "Barbel Steed", "freshwater goby", "Angelfish"]
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "title": "June",
+                                        "icon": "images/apple.png",
+                                        "content": {
+                                            "type": "array",
+                                            "content": [
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Go For If Needed",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Piranha", "Angelfish", "Catfish", "Giant Catfish", "Eel", "Bass"],
+                                                            ["Goldfish", "Killifish", "Frog", "Crawfish", "Coelacanth"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Bonus",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["dace", "koi", "carp", "Barbel steed", "Freshwater goby"]
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "title": "March",
+                                        "icon": "images/orange.png",
+                                        "content": {
+                                            "type": "array",
+                                            "content": [
+                                                {
+                                                    "type": "group",
+                                                    "header": "Required",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Loach","Rainbow Trout", "Cherry Salmon", "Large Char"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Go For If Needed",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Coelacanth", "Koi"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Bonus",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Dace", "Carp", "Barbel Steed", "Freshwater Goby"]
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                        },  
+                                    {
+                                        "title": "February",
+                                        "icon": "images/orange.png",
+                                        "content": {
+                                            "type": "array",
+                                            "content": [
+                                                {
+                                                    "type": "group",
+                                                    "header": "Required",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "h_alignment": "center",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "rows": [
+                                                            ["Stringfish", "Pond smelt", "Bitterling"]
+                                                        ]
+                                                    }
+                                                },
+                                                {   
+                                                    "type": "group",
+                                                    "header": "Go For If Needed",
+                                                    "h_alignment": "stretch",
+                                                    "v_alignment": "stretch",
+                                                    "header_background": "#111111",
+                                                    "content": {
+                                                        "type": "itemgrid",
+                                                        "item_margin": "1,-8",
+                                                        "item_size": 60,
+                                                        "style": "wrap",
+                                                        "h_alignment": "stretch",
+                                                        "v_alignment": "stretch",
+                                                        "rows": [
+                                                            ["Sea Bass", "Coelacanth", "Dace", "koi", "Barbel steed"],
+                                                            ["Freshwater goby", "Crucian Carp", "Small Bass", "Carp"]
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "dock": "Right",
+                        "header": "All Fish",
+                        "header_background": "#111111",
+                        "content": {
+                            "type": "itemgrid",
+                            "dock": "bottom",
+                            "h_alignment": "center",
+                            "item_margin": "1,-8",
+                            "item_size": 60,
+                            "rows": [
+                                ["Crucian carp", "Brook trout", "Carp", "Koi", "Barbel steed"],
+                                ["Dace", "Catfish", "Giant catfish", "Pale chub", "Bitterling"],
+                                ["Loach", "Bluegill", "Small bass", "Bass", "Large bass"],
+                                ["Giant snakehead", "Eel", "Freshwater goby", "Pond smelt", "Sweetfish"],
+                                ["Cherry salmon", "Rainbow trout", "Large char", "Stringfish", "Salmon"],
+                                ["Goldfish", "Popeyed goldfish", "Guppy", "Angelfish", "Piranha"],
+                                ["Arowana", "Arapaima", "Crawfish", "Frog", "Killifish"],
+                                ["Jellyfish", "Sea bass", "Red snapper", "Barred knifejaw", "Coelacanth"]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
