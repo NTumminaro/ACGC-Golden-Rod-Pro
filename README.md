@@ -13,4 +13,3 @@
 ## Important Links and References
 
 - https://docs.google.com/spreadsheets/d/1O89YNtDvXWPbh6q1SRzLeEwaMmcfWngeqWnemhye7pc/edit?usp=sharing
-- https://docs.google.com/spreadsheets/d/13sRAcj9YbP9_i-u0Kg6S7ycHbaOQx1jFG4lYLm2DJ4c/edit?usp=sharing
