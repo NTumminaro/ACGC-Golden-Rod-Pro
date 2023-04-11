@@ -1,26 +1,26 @@
-import { Button, Card } from '@mui/material'
-import CardMedia from '@mui/material/CardMedia'
+import { Button, Card } from "@mui/material";
+import CardMedia from "@mui/material/CardMedia";
 
-function FishCard({fishCount, fishUpdate}) {
+function FishCard({ fish, updateFish }) {
+    console.log(fish);
 
-    const fishHandler = () => {
-        //some sort of target should go here
-        fishUpdate("Some sort of Target for the fish");
-    }
-    // possible loops?
     return (
         <>
-            <Button onClick={fishHandler}>
+            <Button
+                onClick={() => {
+                    updateFish(fish);
+                }}
+            >
                 <Card>
                     <CardMedia
                         component="img"
-                        image="/Sprites/Small Sprites/angelfish.png"
+                        image={`/Sprites/Small Sprites/${fish.img}`}
                     />
-                    <h1>Angelfish</h1>
+                    <h1>{fish.name}</h1>
                 </Card>
             </Button>
         </>
-    )
-};
+    );
+}
 
-export default FishCard
+export default FishCard;
