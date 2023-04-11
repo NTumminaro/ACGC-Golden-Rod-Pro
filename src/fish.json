@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Angelfish",
+        "img": "angelfish.png"
+    },
+    {
+        "id": 2,
+        "name": "Arowana",
+        "img": "arowana.png"
+    },
+    {
+        "id": 3,
+        "name": "Coelacanth",
+        "img": "coelacanth.png"
+    }
+]
