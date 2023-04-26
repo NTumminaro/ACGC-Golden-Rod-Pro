@@ -2,201 +2,241 @@
     {
         "id": 1,
         "name": "Crucian Carp",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "crucian carp.png"
     },
     {
         "id": 2,
         "name": "Brook Trout",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "brook trout.png"
     },
     {
         "id": 3,
         "name": "Carp",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "carp.png"
     },
     {
         "id": 4,
         "name": "Koi",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "koi.png"
     },
     {
         "id": 5,
         "name": "Barbel Steed",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "barbel steed.png"
     },
     {
         "id": 6,
         "name": "Dace",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "dace.png"
     },
     {
         "id": 7,
         "name": "Catfish",
+        "month": [5,6,7,8,9,10],
         "img": "catfish.png"
     },
     {
         "id": 8,
         "name": "Giant Catfish",
+        "month": [6,7,8,9],
         "img": "giant catfish.png"
     },
     {
         "id": 9,
         "name": "Pale Chub",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "pale chub.png"
     },
     {
         "id": 10,
         "name": "Bitterling",
+        "month": [1,2,12],
         "img": "bitterling.png"
     },
     {
         "id": 11,
         "name": "Loach",
+        "month": [3,4,5],
         "img": "loach.png"
     },
     {
         "id": 12,
         "name": "Bluegill",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "bluegill.png"
     },
     {
         "id": 13,
         "name": "Small Bass",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "small bass.png"
     },
     {
         "id": 14,
         "name": "Bass",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "bass.png"
     },
     {
         "id": 15,
         "name": "Large Bass",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "large bass.png"
     },
     {
         "id": 16,
         "name": "Giant Snakehead",
+        "month": [6,7,8],
         "img": "giant snakehead.png"
     },
     {
         "id": 17,
         "name": "Eel",
+        "month": [6,7,8,9],
         "img": "eel.png"
     },
     {
         "id": 18,
         "name": "Freshwater Goby",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "freshwater goby.png"
     },
     {
         "id": 19,
         "name": "Pond Smelt",
+        "month": [1,2,12],
         "img": "pond smelt.png"
     },
     {
         "id": 20,
         "name": "Sweetfish",
+        "month": [7,8,9],
         "img": "sweetfish.png"
     },
     {
         "id": 21,
         "name": "Cherry Salmon",
+        "month": [3,4,5,6,9,10,11],
         "img": "cherry salmon.png"
     },
     {
         "id": 22,
         "name": "Rainbow Trout",
+        "month": [3,4,5,6,9,10,11],
         "img": "rainbow trout.png"
     },
     {
         "id": 23,
         "name": "Large Char",
+        "month": [3,4,5,6,9,10,11],
         "img": "large char.png"
     },
     {
         "id": 24,
         "name": "Stringfish",
+        "month": [1,2,12],
         "img": "stringfish.png"
     },
     {
         "id": 25,
         "name": "Salmon",
+        "month": [9],
         "img": "salmon.png"
     },
     {
         "id": 26,
         "name": "Goldfish",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "goldfish.png"
     },
     {
         "id": 27,
         "name": "Popeyed Goldfish",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "popeyed goldfish.png"
     },
     {
         "id": 28,
         "name": "Guppy",
+        "month": [4,5,6,7,8,9,10,11],
         "img": "guppy.png"
     },
     {
         "id": 29,
         "name": "Angelfish",
+        "month": [5,6,7,8,9,10],
         "img": "angelfish.png"
     },
     {
         "id": 30,
         "name": "Piranha",
+        "month": [6,7,8,9],
         "img": "piranha.png"
     },
     {
         "id": 31,
         "name": "Arowana",
+        "month": [6,7,8,9],
         "img": "arowana.png"
     },
     {
         "id": 32,
         "name": "Arapaima",
+        "month": [7,8,9],
         "img": "arapaima.png"
     },
     {
         "id": 33,
         "name": "Crawfish",
+        "month": [4,5,6,7,8,9],
         "img": "crawfish.png"
     },
     {
         "id": 34,
         "name": "Frog",
+        "month": [5,6,7,8],
         "img": "frog.png"
     },
     {
         "id": 35,
         "name": "Killifish",
+        "month": [4,5,6,7,8],
         "img": "killifish.png"
     },
     {
         "id": 36,
         "name": "Jellyfish",
+        "month": [8],
         "img": "jellyfish.png"
     },
     {
         "id": 37,
         "name": "Sea Bass",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "sea bass.png"
     },
     {
         "id": 38,
         "name": "Red Snapper",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "red snapper.png"
     },
     {
         "id": 39,
         "name": "Barred Knifejaw",
+        "month": [3,4,5,6,7,8,9,10,11],
         "img": "barred knifejaw.png"
     },
     {
         "id": 40,
         "name": "Coelacanth",
+        "month": [1,2,3,4,5,6,7,8,9,10,11,12],
         "img": "coelacanth.png"
     }
 ]
