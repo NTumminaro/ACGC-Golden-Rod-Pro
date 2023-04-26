@@ -1,24 +1,35 @@
-import { Button, Card } from "@mui/material";
-import CardMedia from "@mui/material/CardMedia";
+import { Avatar, Button, Card, CardHeader, CardMedia } from "@mui/material";
 
 function FishCard({ fish, updateFish }) {
     console.log(fish);
 
     return (
         <>
-            <Button
+            {/* <Button
+                onClick={() => {
+                    updateFish(fish);
+                }}
+            > */}
+            <Card
+                sx={{
+                    "&:hover": {
+                        backgroundColor: "primary.main",
+                        opacity: [0.9, 0.8, 0.7],
+                        cursor: "pointer",
+                    },
+                }}
                 onClick={() => {
                     updateFish(fish);
                 }}
             >
-                <Card>
-                    <CardMedia
-                        component="img"
-                        image={`/Sprites/Small Sprites/${fish.img}`}
-                    />
-                    <h1>{fish.name}</h1>
-                </Card>
-            </Button>
+                <CardHeader
+                    avatar={
+                        <Avatar src={`/Sprites/Small Sprites/${fish.img}`} />
+                    }
+                    title={fish.name}
+                />
+            </Card>
+            {/* </Button> */}
         </>
     );
 }
